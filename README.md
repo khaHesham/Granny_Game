@@ -98,36 +98,6 @@ https://github.com/KirollosSamy/Graphics_project/assets/75990647/b6d97416-ecd0-4
 - The player can hide in the dark from granny so she can't catch him 
 - In case granny sees the player , she runs after him then game over
 
-## Contributors <a name = "contributors"></a>
-
-<table>
-  <tr>
-		<td align="center">
-    <a href="https://github.com/khaHesham" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="150px;" alt="Khaled Hesham"/>
-    <br />
-    <sub><b>Khaled Hesham</b></sub></a>
-    </td>
-		<td align="center">
-    <a href="https://github.com/KirollosSamy" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="150px;" alt="Kirollos Samy"/>
-    <br />
-    <sub><b>Kirollos Samy</b></sub></a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/nadaaosman" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/84284180?v=4" width="150px;" alt="Nada Osman"/>
-    <br />
-    <sub><b>Nada Osman</b></sub></a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/shredanabdullah" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/105118008?v=4" width="150px;" alt="Shredan Abdallah"/>
-    <br />
-    <sub><b>Shredan Abdallah</b></sub></a>
-    </td>
-  </tr>
- </table>
 
 ## License
 
